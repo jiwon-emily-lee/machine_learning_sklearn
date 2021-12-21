@@ -78,7 +78,7 @@ To contribute, follow these steps:
 4. Push to the original branch: `git push origin <project_name>/<location>`
 5. Create the pull request.
 
-## Cotact
+## Contact
 
 If you want to contact me you can reach me at emillie0416@gmail.com
 
