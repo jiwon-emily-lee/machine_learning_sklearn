@@ -2,7 +2,7 @@
 
 This project aims to find the best Machine Learning model to fit the training data points using Scikit Learn. Olivetti faces dataset, which contains face images, is used as a dataset.
 
-#### Build Status: 
+#### Build Status: ![Build Status](https://shields.io/badge/build-passing-brightgreen)
 
 #### Code Style: Python, followed [PEP8](https://www.python.org/dev/peps/pep-0008/)
 
