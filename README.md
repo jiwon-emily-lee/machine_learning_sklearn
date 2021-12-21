@@ -7,7 +7,7 @@ This project aims to find the best Machine Learning model to fit the training da
 #### Code Style: Python, followed [PEP8](https://www.python.org/dev/peps/pep-0008/)
 
 ## Visuals
-![screen shot](https://github.com/jiwon-emily-lee/notion-todo/blob/main/Screen%20Shot%202021-12-21%20at%2011.06.54%20AM.png?raw=true)
+![screen shot](https://github.com/jiwon-emily-lee/machine_learning_os/blob/main/img/sc.png?raw=true)
 
 ## Tech/Framework used & Features
 
@@ -64,7 +64,7 @@ y_pred = log_reg.predict(X_test)
 ```
 
 ## Tests
-![accuracy rate screenshot](https://github.com/jiwon-emily-lee/notion-todo/blob/main/acc.png?raw=true)
+![accuracy rate screenshot](https://github.com/jiwon-emily-lee/machine_learning_os/blob/main/img/acc.png?raw=true)
 
 ---
 
